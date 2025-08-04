@@ -25,14 +25,6 @@ A clean and responsive developer portfolio built with **HTML**, **CSS**, and **J
 | HTML5, CSS3, JavaScript | Azure Static Web Apps | GitHub Actions |
 
 ---
-
-## 🧑‍💻 Setup Instructions (Local Dev)
-
-```bash
-git clone https://github.com/oluwahiyanu/portfolio-static-web.git
-cd portfolio-static-web
-# Open index.html in your browser or VS Code Live Server
-
 ---
 
 🚀 Deployment (CI/CD)
